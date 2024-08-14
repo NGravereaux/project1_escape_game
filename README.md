@@ -68,8 +68,8 @@ If you want to go above and beyond the basics, here are some ideas of improvemen
 - Apply OOP principles by refactoring the code into classes.
 
 ## Additional Resources
-- [Python args and kwargs: Demystified](#)
-- [Zipping and Unzipping Iterables in Python](#)
-- [Regular Expressions: Regexes in Python](#)
+- ![Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)
+- ![Zipping and Unzipping Iterables in Python](https://towardsdatascience.com/zip-function-in-python-da91c248385d)
+- ![Regular Expressions: Regexes in Python](https://realpython.com/regex-python/)
 
 ---
